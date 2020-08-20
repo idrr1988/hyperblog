@@ -7,7 +7,20 @@ body
     margin: 0;
     padding: 0;
 }
- #container
+ 
+
+#cabecera
+{
+    background: #33d;
+    color: white;
+    box-shadow: -115px -200px 37px -31px rgba(0,0,0,0.52);
+
+    margin: 0;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+#container
  {
      width: 70%;
      padding: 1em;
